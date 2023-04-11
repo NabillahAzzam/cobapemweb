@@ -9,6 +9,5 @@
     echo "Dari Yusuf";
 
     echo "Yusuf 2";
-    echo "Bro penonton"
 ?>
 
